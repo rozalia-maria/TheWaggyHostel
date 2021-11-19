@@ -12,6 +12,14 @@ h2{
  font-style: oblique; 
 }
 
+h3{
+ color: #359c7d;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-weight: 300;
+ text-align: center;
+ font-style: oblique; 
+}
+
 p{
 color: #359c7d;
 font-size: 16px;
